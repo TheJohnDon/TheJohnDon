@@ -1,8 +1,8 @@
-# About Me:
+# Hey, This is Rajat Singh
 I’m currently studying in third year of Bachelor's of Engineering. I’m keen to work on Machine Learning, Data Analysis and Web Development projects. I have hands on experience in programming languages Python, Java. I have built multiple projects using Pygame and machine learning algorithms. I have solved over 100 problems in various coding platforms like Codeforces, leetcode and Hackerrank. I’m currently learning Data Structures & Algorithm, Flask and Django. My skillset includes machine learning, database management systems, SolidWorks and PowerBI.
 
 
-## 🌐 Socials:
+## 🌐 My Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thejohndon_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajatsinghakajohn) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/karmaneverditch) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@thejohndon1210) 
 
 # 💻 Tech Stack:
