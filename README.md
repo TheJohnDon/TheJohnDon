@@ -1,4 +1,4 @@
-# Hey, This is Rajat Singh
+#                                                         Hey, This is Rajat Singh
 I’m currently studying in third year of Bachelor's of Engineering. I’m keen to work on Machine Learning, Data Analysis and Web Development projects. I have hands on experience in programming languages Python, Java. I have built multiple projects using Pygame and machine learning algorithms. I have solved over 100 problems in various coding platforms like Codeforces, leetcode and Hackerrank. I’m currently learning Data Structures & Algorithm, Flask and Django. My skillset includes machine learning, database management systems, SolidWorks and PowerBI.
 
 
